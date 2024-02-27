@@ -1,0 +1,65 @@
+{
+  "status":"ok",
+  "totalResults":31,
+  "articles":
+  [
+    {
+      "source":{"id":null,"name":"Masrawy.com"},
+      "author":"مصراوي",
+      "title":"كورونا في 24 ساعة| بدء التسجيل للجرعة الثالثة.. و\"أوميكرون\" يغزو العالم - Masrawy-مصراوي",
+      "description":"كورونا في 24 ساعة بدء التسجيل للجرعة الثالثة و أوميكرون يغزو العالم | مصراوى",
+      "url":"https://www.masrawy.com/news/news_egypt/details/2021/12/5/2135369/كورونا-في-24-ساعة-بدء-التسجيل-للجرعة-الثالثة-و-أوميكرون-يغزو-العالم",
+      "urlToImage":"https://media.gemini.media/img/large/2021/12/5/2021_12_5_3_10_41_923.jpg",
+      "publishedAt":"2021-12-05T05:00:00Z",
+      "content":null
+    },
+    {
+      "source":{"id":null,"name":"Aljazeerh-alarabiya.com"},
+      "author":"خليج الجزيرة",
+      "title":"مفاجأة فنية مدوية تكشف لأول مرة بعد سنوات من رحيله ،، بطاقة رشدي أباظة الشخصية تكشف عن ديانته وإسمه الحقيقي! (شاهد) - خليج الجزيرة",
+      "description":"تداول رواد مواقع التواصل الاجتماعي صورة نادرة يظهر بها البطاقة الشخصية لدنجوان السينما المصرية، وأحد أبرز نجومها فى العصر الذهبي والزمن الجميل، وهو الوسيم رشدي أباظة، والذي كان نموذج مثالي لفتي أحلام العديد من الفتيات.",
+      "url":"https://aljazeerh-alarabiya.com/news116484.html",
+      "urlToImage":"https://aljazeerh-alarabiya.com/user_images/news/04-12-21-937809334.jpg",
+      "publishedAt":"2021-12- 05T03:30:00Z",
+      "content":null
+    },
+    {"source":{"id":null,"name":"Skynewsarabia.com"},
+      "author":"سكاي نيوز عربية",
+      "title":"قتلى وعشرات المصابين في ثوران بركان بإندونيسيا - سكاي نيوز عربية",
+      "description":"أفادت وكالة إدارة الكوارث في إندونيسيا، الأحد، بوقوع 13 قتيلا، جرّاء ثوران بركان سيميرو، حسبما نقلت \"فرانس برس\".",
+      "url":"https://www.skynewsarabia.com/world/1484492-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%D9%8A%D9%86-%D8%AB%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D9%83%D8%A7%D9%86-%D8%A8%D8%A7%D9%95%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7",
+      "urlToImage":"https://www.skynewsarabia.com/images/v1/2021/12/05/1484491/1200/630/1-1484491.jpg",
+      "publishedAt":"2021-12-05T02:56:53Z",
+      "content":null
+    },
+    {
+      "source":{"id":null,"name":"Skynewsarabia.com"},
+      "author":"سكاي نيوز عربية",
+      "title":"نووي إيران.. ما هي خيارات الرد إن فشلت مفاوضات فيينا؟ - سكاي نيوز عربية",
+      "description":"أعلنت الولايات المتحدة أنها ستدرس خيارات أخرى للتعامل مع إيران في حال فشلت مفاوضات فيينا بشأن الملف النووي.",
+      "url":"https://www.skynewsarabia.com/world/1484485-%D9%86%D9%88%D9%88%D9%8A-%D8%A7%D9%95%D9%8A%D8%B1%D8%A7%D9%86-%D9%87%D9%8A-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%AF-%D9%81%D8%B4%D9%84%D8%AA-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D9%81%D9%8A%D9%8A%D9%86%D8%A7%D8%9F",
+      "urlToImage":"https://www.skynewsarabia.com/images/v1/2021/12/05/1484484/1200/630/1-1484484.jpg",
+      "publishedAt":"2021-12-05T01:15:45Z",
+      "content":null
+    },
+    {"source":{"id":null,"name":"Skynewsarabia.com"},
+      "author":"سكاي نيوز عربية",
+      "title":"دولة جديدة تسجل أول إصابة بـ\"أوميكرون\" - سكاي نيوز عربية",
+      "description":"أعلنت تشيلي السبت أنها رصدت أول إصابة بالمتحوّر \"أوميكرون\" على أراضيها لدى مسافر وصل من غانا في 25 نوفمبر.",
+      "url":"https://www.skynewsarabia.com/world/1484481-%D8%AF%D9%88%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A7%D9%95%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D9%80%D8%A7%D9%94%D9%88%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%86",
+      "urlToImage":"https://www.skynewsarabia.com/images/v1/2021/12/05/1484480/1200/630/1-1484480.jpg",
+      "publishedAt":"2021-12-05T00:28:41Z",
+      "content":null
+    },
+    {
+      "source":{"id":null,"name":"BBC News"},
+      "author":"https://www.facebook.com/bbcnews",
+      "title":"محادثات مرتقبة بين بايدن وبوتين وسط مخاوف من غزو أوكرانيا - BBC Arabic",
+      "description":"تأتي محادثات الثلاثاء بعد أن قال وزير الخارجية الأمريكي، أنتوني بلينكن، إن لدى بلاده دليلا على أن روسيا وضعت خططا لهجوم \"واسع النطاق\".",
+      "url":"https://www.bbc.com/arabic/world-59536498",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_arabic/1609A/production/_121966209_bidenputin.jpg",
+      "publishedAt":"2021-12-05T00:04:09Z",
+      "content":"Reuters\r\n.\r\n \" \" .\r\n .\r\n .\r\n94 .\r\n 2014.\r\n / .\r\n .\r\n \" \" \" \".\r\n .\r\n () .\r\n .\r\n . 125 . .\r\n \" \" .\r\n .\r\n . 2014 .\r\n .\r\n /. 9 /.\r\n<ul><li></li><li></li><li></li><li></li></ul>\r\n<ul><li></li><li></li><li… [+64 chars]"
+    }
+  ]
+}
